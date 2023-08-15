@@ -3,7 +3,7 @@ Image Classification for Cars vs Planes
 
 Welcome to the Image Classification for Cars vs Planes repository! This project focuses on utilizing transfer learning techniques to classify images of cars and planes. The goal is to create an accurate and efficient image classification model that can distinguish between these two classes with high precision.
 
-Project Overview
+Project Overview 
 ----------------
 
 In this repository, we have developed a Jupyter notebook that demonstrates the process of building, training, and using an image classification model for distinguishing between cars and planes.
