@@ -8,7 +8,7 @@ Project Overview
 
 In this repository, we have developed a Jupyter notebook that demonstrates the process of building, training, and using an image classification model for distinguishing between cars and planes.
 
-### Notebook Contents
+### Notebook Contents:
 
 The main tasks covered in the Jupyter notebook are:
 
